@@ -2,7 +2,7 @@
 ### with Non-Competitive Allosteric Feedback Inhibition
 
 > **Course:** Biotechnology — Systems Biology (BISB211605)  
-> **Lecturer:** Matin Nuhamunada, M.Sc., Ph.D.  
+> **Name:** Adelia Yusuf Ardhani.  
 > **Institution:** Faculty of Biology, Universitas Gadjah Mada  
 > **Semester:** Even Semester 2025/2026
 
