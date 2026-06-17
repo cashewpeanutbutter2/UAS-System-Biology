@@ -5,7 +5,7 @@
 =============================================================================
 
  Course    : Biotechnology — Systems Biology (BISB211605)
- Lecturer  : Matin Nuhamunada, M.Sc., Ph.D.
+ Student   : Adelia Yusuf Ardhani
  University: Universitas Gadjah Mada — Faculty of Biology
 
  Description:
